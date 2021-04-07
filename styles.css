@@ -82,14 +82,6 @@ ul li a:hover {
 div.hero-section {
   background: #304353;
   padding: 10rem;
-
-  /* ********** */
-  width: 100vw;
-  height: calc(100vh - 60px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
 }
 
 div.hero-content-heading {
@@ -457,7 +449,8 @@ div.footer h6 {
     width: 100%;
     margin-bottom: 20px;
   }
-  textarea {
+  textarea,
+  div.footer-btn {
     width: 100%;
   }
 }

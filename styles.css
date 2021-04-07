@@ -449,8 +449,16 @@ div.footer h6 {
   div.snapshot-box-content {
     flex-wrap: wrap;
   }
+  div.footer-input {
+    flex-direction: column;
+  }
+  input[type="text"],
+  input[type="email"] {
+    width: 50%;
+    margin-bottom: 20px;
+  }
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 668px) {
   div.snapshot-box-content {
     justify-content: center;
   }

@@ -450,7 +450,7 @@ div.footer h6 {
     margin-bottom: 20px;
   }
   textarea,
-  div.footer-btn {
+  div.footer-btn a{
     width: 100%;
   }
 }

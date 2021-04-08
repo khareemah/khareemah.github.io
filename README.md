@@ -1,3 +1,3 @@
 # zuri-assignment-RWD
 
-Here is a [link]( https://zuri-assignment-rwd.netlify.app/) to my responsive design assignment
+Here is a [link](https://khareemah.github.io/) to my responsive design assignment
